@@ -2,13 +2,13 @@
  Koumarelis Demo
 # Vue Weather Widget
 
-A simple weather widget developed in Vue.js that allows users to display current weather information for a specific location.
+A simple weather widget developed in Vue.js that allows users to display current weather information.
 
 ## Features
 
-- Display current weather information (temperature, description, humidity, etc.).
-- Search for weather by location (city, country).
+- Display current weather information (temperature, feel-like temperature, humidity, etc.).
 - Responsive design for mobile and desktop.
+- Apex chart (Open Source JavaScript Charts)
 
 ## Installation
 
